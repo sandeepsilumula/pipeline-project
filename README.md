@@ -26,3 +26,7 @@ A fully automated Continuous Integration and Continuous Delivery (CI/CD) pipelin
 ```bash
 git clone [https://github.com/YOUR_USERNAME/pipeline-project.git](https://github.com/YOUR_USERNAME/pipeline-project.git)
 cd pipeline-project
+## 🗺️ SRE Portfolio Context
+This microservice pipeline is **Part 2** of my CloudOps portfolio. 
+* ⬅️ **Part 1:** [SENTINEL: Uptime Monitor](https://github.com/sandeepsilumula/sentinel-project)
+* ➡️ **Part 3:** (Coming Soon: Terraform Infrastructure)
