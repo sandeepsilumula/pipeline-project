@@ -32,3 +32,11 @@ jobs:
     - name: Run Automated Tests
       run: |
         pytest
+# Step D: Run the exact command you just ran on your Mac!
+    - name: Run Automated Tests
+      run: |
+        pytest
+
+    # Step E: Build the Docker Image (Only runs if tests pass!)
+    - name: Build Docker Image
+      run: docker build -t pipeline-app:latest .
